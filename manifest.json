@@ -1,6 +1,6 @@
 {
-    "name": "gcmhttps",
-    "short_name": "gcmhttps",
+    "name": "safarihttps",
+    "short_name": "safarihttps",
     "icons": [{
         "src": "/logo_192_by_192.png",
         "sizes": "192x192",
